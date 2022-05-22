@@ -2,13 +2,7 @@
 Jupyter Notebook that clusters cryptocurrencies by their performance in different time periods.  Results will be plotted to visually represent the performance.
 
 # Technologies
-Import required libraries and dependencies
-import pandas as pd
-import hvplot.pandas
-from path import Path
-from sklearn.cluster import KMeans
-from sklearn.decomposition import PCA
-from sklearn.preprocessing import StandardScaler
+
 
 # Instructions
 Use the starter code file to complete the tasks outlined in the Instructions. The steps for this Challenge are divided into the following sections:
