@@ -15,4 +15,9 @@ Find the Best Value for k Using the PCA Data
 Cluster the Cryptocurrencies with K-means Using the PCA Data
 Visualize and Compare the Results
 
+# Contributors
+Starter code was provided by the UC Berkely Extensions Fintech Bootcamp program. Modifications were performed by James Milan.
+
+# License
+The project is BSD 3-Clause licensed for use only by James Milan and the contributors of the UC Berkeley Extensions Fintech Bootcamp Program.
 
