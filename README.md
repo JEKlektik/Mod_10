@@ -2,8 +2,9 @@
 Jupyter Notebook that clusters cryptocurrencies by their performance in different time periods.  Results will be plotted to visually represent the performance.
 
 # Technologies
-![https://github.com/JEKlektik/Mod_10/blob/19e36a1929a9f97a0c428ddb93409a32d39f1c59/Screen%20Shot%202022-05-22%20at%2012.21.30%20PM.png]()
-
+![Screen Shot 2022-05-22 at 12.21.30 PM.png]()
+https://github.com/JEKlektik/Mod_10/blob/19e36a1929a9f97a0c428ddb93409a32d39f1c59/Screen%20Shot%202022-05-22%20at%2012.21.30%20PM.png
+Screen Shot 2022-05-22 at 12.21.30 PM.png
 # Instructions
 Use the starter code file to complete the tasks outlined in the Instructions. The steps for this Challenge are divided into the following sections:
 Import the Data (provided in the starter code)
