@@ -2,7 +2,7 @@
 Jupyter Notebook that clusters cryptocurrencies by their performance in different time periods.  Results will be plotted to visually represent the performance.
 
 # Technologies
-# Import required libraries and dependencies
+Import required libraries and dependencies
 import pandas as pd
 import hvplot.pandas
 from path import Path
